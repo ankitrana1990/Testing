@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/All-APP/TEMP_BRAND/WebContent/WEB-INF/lib/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/All-APP/Services/WebContent/WEB-INF/lib/httpclient-osgi-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/All-APP/auth/WebContent/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/SCM-WORKSPACE/service-catalogue-manager/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/SCM-WORKSPACE/podcast/WebContent/WEB-INF/lib/axis.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/All-APP/podcasts_temp/WebContent/WEB-INF/lib/postgresql-8.1-407.jdbc3.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/SCM-WORKSPACE/service-catalogue-manager/WebContent/WEB-INF/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/HDS/SCM-WORKSPACE/service-catalogue-manager/WebContent/WEB-INF/lib/mail-1.4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
